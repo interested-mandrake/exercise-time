@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     /*
         About: This problem is a little misleading. The goal is to remove duplicate elements in a sorted
         array, but to do this by correctly positioning the values in-place. The int value which we return

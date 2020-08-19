@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
 
     // method parameter info: where m is the length of numbers in nums1, n is the length of numbers in nums2, and nums1 has enough capacity to hold all the numbers in both nums1 and nums2
     public void merge(int[] nums1, int m, int[] nums2, int n) 
