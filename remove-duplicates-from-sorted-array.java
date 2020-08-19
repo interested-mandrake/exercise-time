@@ -5,7 +5,8 @@ class Solution {
         represents the length we will read from the modified input array to get a unique
         copy of each sorted number.
     */
-    public int removeDuplicates(int[] nums) {
+    public int removeDuplicates(int[] nums) 
+    {
         /*  
          Thoughts: 
          we can solve this using a 2 pointer approach. let's call the pointers fast and slow
